@@ -1,0 +1,408 @@
+{
+  "nodes": [
+    {
+      "id": "Weakness",
+      "group": "symptom",
+      "count": 26
+    },
+    {
+      "id": "Stroke",
+      "group": "disease",
+      "count": 11
+    },
+    {
+      "id": "Fever",
+      "group": "symptom",
+      "count": 68
+    },
+    {
+      "id": "Antibiotics",
+      "group": "medication",
+      "count": 39
+    },
+    {
+      "id": "Heart Attack",
+      "group": "disease",
+      "count": 17
+    },
+    {
+      "id": "High Cholesterol",
+      "group": "risk",
+      "count": 10
+    },
+    {
+      "id": "ECG",
+      "group": "diagnostic",
+      "count": 18
+    },
+    {
+      "id": "CT Scan",
+      "group": "diagnostic",
+      "count": 39
+    },
+    {
+      "id": "Shortness of Breath",
+      "group": "symptom",
+      "count": 39
+    },
+    {
+      "id": "Blood Test",
+      "group": "diagnostic",
+      "count": 12
+    },
+    {
+      "id": "Headache",
+      "group": "symptom",
+      "count": 28
+    },
+    {
+      "id": "Diabetes",
+      "group": "disease",
+      "count": 43
+    },
+    {
+      "id": "Hypertension",
+      "group": "disease",
+      "count": 58
+    },
+    {
+      "id": "Smoking",
+      "group": "risk",
+      "count": 29
+    },
+    {
+      "id": "Nausea",
+      "group": "symptom",
+      "count": 31
+    },
+    {
+      "id": "Asthma",
+      "group": "disease",
+      "count": 12
+    },
+    {
+      "id": "Surgery",
+      "group": "procedure",
+      "count": 28
+    },
+    {
+      "id": "MRI",
+      "group": "diagnostic",
+      "count": 16
+    },
+    {
+      "id": "Chest Pain",
+      "group": "symptom",
+      "count": 19
+    },
+    {
+      "id": "Obesity",
+      "group": "risk",
+      "count": 5
+    },
+    {
+      "id": "Family History",
+      "group": "risk",
+      "count": 16
+    },
+    {
+      "id": "Insulin",
+      "group": "medication",
+      "count": 14
+    },
+    {
+      "id": "Aspirin",
+      "group": "medication",
+      "count": 11
+    },
+    {
+      "id": "Dialysis",
+      "group": "procedure",
+      "count": 1
+    },
+    {
+      "id": "Inhaler",
+      "group": "procedure",
+      "count": 1
+    },
+    {
+      "id": "Beta Blockers",
+      "group": "medication",
+      "count": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "Hypertension",
+      "target": "MRI"
+    },
+    {
+      "source": "Smoking",
+      "target": "Heart Attack"
+    },
+    {
+      "source": "Hypertension",
+      "target": "ECG"
+    },
+    {
+      "source": "Diabetes",
+      "target": "Inhaler"
+    },
+    {
+      "source": "Asthma",
+      "target": "Surgery"
+    },
+    {
+      "source": "Stroke",
+      "target": "CT Scan"
+    },
+    {
+      "source": "Diabetes",
+      "target": "Antibiotics"
+    },
+    {
+      "source": "Shortness of Breath",
+      "target": "Heart Attack"
+    },
+    {
+      "source": "Obesity",
+      "target": "Diabetes"
+    },
+    {
+      "source": "Hypertension",
+      "target": "Insulin"
+    },
+    {
+      "source": "Stroke",
+      "target": "Surgery"
+    },
+    {
+      "source": "Chest Pain",
+      "target": "Hypertension"
+    },
+    {
+      "source": "Diabetes",
+      "target": "Aspirin"
+    },
+    {
+      "source": "High Cholesterol",
+      "target": "Diabetes"
+    },
+    {
+      "source": "Fever",
+      "target": "Hypertension"
+    },
+    {
+      "source": "Nausea",
+      "target": "Hypertension"
+    },
+    {
+      "source": "Chest Pain",
+      "target": "Stroke"
+    },
+    {
+      "source": "Smoking",
+      "target": "Hypertension"
+    },
+    {
+      "source": "Hypertension",
+      "target": "Inhaler"
+    },
+    {
+      "source": "Weakness",
+      "target": "Hypertension"
+    },
+    {
+      "source": "Nausea",
+      "target": "Stroke"
+    },
+    {
+      "source": "Diabetes",
+      "target": "CT Scan"
+    },
+    {
+      "source": "Stroke",
+      "target": "MRI"
+    },
+    {
+      "source": "Weakness",
+      "target": "Stroke"
+    },
+    {
+      "source": "Stroke",
+      "target": "ECG"
+    },
+    {
+      "source": "Hypertension",
+      "target": "Antibiotics"
+    },
+    {
+      "source": "Family History",
+      "target": "Hypertension"
+    },
+    {
+      "source": "Headache",
+      "target": "Diabetes"
+    },
+    {
+      "source": "High Cholesterol",
+      "target": "Heart Attack"
+    },
+    {
+      "source": "Fever",
+      "target": "Stroke"
+    },
+    {
+      "source": "Smoking",
+      "target": "Stroke"
+    },
+    {
+      "source": "Asthma",
+      "target": "Insulin"
+    },
+    {
+      "source": "Family History",
+      "target": "Stroke"
+    },
+    {
+      "source": "Shortness of Breath",
+      "target": "Hypertension"
+    },
+    {
+      "source": "Heart Attack",
+      "target": "Aspirin"
+    },
+    {
+      "source": "Hypertension",
+      "target": "Aspirin"
+    },
+    {
+      "source": "Asthma",
+      "target": "Inhaler"
+    },
+    {
+      "source": "Shortness of Breath",
+      "target": "Stroke"
+    },
+    {
+      "source": "Heart Attack",
+      "target": "CT Scan"
+    },
+    {
+      "source": "Fever",
+      "target": "Heart Attack"
+    },
+    {
+      "source": "Chest Pain",
+      "target": "Asthma"
+    },
+    {
+      "source": "Diabetes",
+      "target": "ECG"
+    },
+    {
+      "source": "Hypertension",
+      "target": "CT Scan"
+    },
+    {
+      "source": "Chest Pain",
+      "target": "Diabetes"
+    },
+    {
+      "source": "Obesity",
+      "target": "Hypertension"
+    },
+    {
+      "source": "Hypertension",
+      "target": "Beta Blockers"
+    },
+    {
+      "source": "Fever",
+      "target": "Asthma"
+    },
+    {
+      "source": "Nausea",
+      "target": "Asthma"
+    },
+    {
+      "source": "Weakness",
+      "target": "Asthma"
+    },
+    {
+      "source": "Smoking",
+      "target": "Asthma"
+    },
+    {
+      "source": "Hypertension",
+      "target": "Surgery"
+    },
+    {
+      "source": "Fever",
+      "target": "Diabetes"
+    },
+    {
+      "source": "Nausea",
+      "target": "Diabetes"
+    },
+    {
+      "source": "Smoking",
+      "target": "Diabetes"
+    },
+    {
+      "source": "Weakness",
+      "target": "Diabetes"
+    },
+    {
+      "source": "High Cholesterol",
+      "target": "Hypertension"
+    },
+    {
+      "source": "Chest Pain",
+      "target": "Heart Attack"
+    },
+    {
+      "source": "Diabetes",
+      "target": "Insulin"
+    },
+    {
+      "source": "Asthma",
+      "target": "Aspirin"
+    },
+    {
+      "source": "Heart Attack",
+      "target": "MRI"
+    },
+    {
+      "source": "Family History",
+      "target": "Diabetes"
+    },
+    {
+      "source": "Nausea",
+      "target": "Heart Attack"
+    },
+    {
+      "source": "Heart Attack",
+      "target": "ECG"
+    },
+    {
+      "source": "Weakness",
+      "target": "Heart Attack"
+    },
+    {
+      "source": "Shortness of Breath",
+      "target": "Asthma"
+    },
+    {
+      "source": "Shortness of Breath",
+      "target": "Diabetes"
+    },
+    {
+      "source": "Stroke",
+      "target": "Aspirin"
+    },
+    {
+      "source": "Headache",
+      "target": "Hypertension"
+    }
+  ]
+}

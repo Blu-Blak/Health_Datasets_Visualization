@@ -1,0 +1,52 @@
+[
+  {
+    "disease": "Mental Health",
+    "Female": 220,
+    "Male": 187
+  },
+  {
+    "disease": "Endocrine/Diabetes",
+    "Female": 390,
+    "Male": 415
+  },
+  {
+    "disease": "Orthopedic",
+    "Female": 330,
+    "Male": 433
+  },
+  {
+    "disease": "Dermatology",
+    "Female": 392,
+    "Male": 445
+  },
+  {
+    "disease": "Respiratory",
+    "Female": 347,
+    "Male": 547
+  },
+  {
+    "disease": "Neurological",
+    "Female": 498,
+    "Male": 573
+  },
+  {
+    "disease": "Renal/Urology",
+    "Female": 431,
+    "Male": 602
+  },
+  {
+    "disease": "Heart/Cardiac",
+    "Female": 345,
+    "Male": 607
+  },
+  {
+    "disease": "Gastrointestinal",
+    "Female": 751,
+    "Male": 871
+  },
+  {
+    "disease": "Infectious Disease",
+    "Female": 602,
+    "Male": 907
+  }
+]

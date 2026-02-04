@@ -1,0 +1,72 @@
+[
+  {
+    "disease": "Mental Health",
+    "Adult (41-65)": 116,
+    "Pediatric (0-18)": 46,
+    "Senior (65+)": 25,
+    "Young Adult (19-40)": 194
+  },
+  {
+    "disease": "Orthopedic",
+    "Adult (41-65)": 245,
+    "Pediatric (0-18)": 155,
+    "Senior (65+)": 103,
+    "Young Adult (19-40)": 264
+  },
+  {
+    "disease": "Endocrine/Diabetes",
+    "Adult (41-65)": 387,
+    "Pediatric (0-18)": 39,
+    "Senior (65+)": 177,
+    "Young Adult (19-40)": 205
+  },
+  {
+    "disease": "Dermatology",
+    "Adult (41-65)": 222,
+    "Pediatric (0-18)": 257,
+    "Senior (65+)": 51,
+    "Young Adult (19-40)": 307
+  },
+  {
+    "disease": "Respiratory",
+    "Adult (41-65)": 348,
+    "Pediatric (0-18)": 181,
+    "Senior (65+)": 147,
+    "Young Adult (19-40)": 249
+  },
+  {
+    "disease": "Heart/Cardiac",
+    "Adult (41-65)": 511,
+    "Pediatric (0-18)": 37,
+    "Senior (65+)": 231,
+    "Young Adult (19-40)": 188
+  },
+  {
+    "disease": "Renal/Urology",
+    "Adult (41-65)": 359,
+    "Pediatric (0-18)": 161,
+    "Senior (65+)": 162,
+    "Young Adult (19-40)": 329
+  },
+  {
+    "disease": "Neurological",
+    "Adult (41-65)": 344,
+    "Pediatric (0-18)": 199,
+    "Senior (65+)": 134,
+    "Young Adult (19-40)": 375
+  },
+  {
+    "disease": "Infectious Disease",
+    "Adult (41-65)": 381,
+    "Pediatric (0-18)": 495,
+    "Senior (65+)": 135,
+    "Young Adult (19-40)": 523
+  },
+  {
+    "disease": "Gastrointestinal",
+    "Adult (41-65)": 521,
+    "Pediatric (0-18)": 303,
+    "Senior (65+)": 175,
+    "Young Adult (19-40)": 588
+  }
+]
