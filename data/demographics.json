@@ -1,0 +1,141 @@
+{
+  "name": "Patients",
+  "children": [
+    {
+      "name": "Elderly (80+)",
+      "children": [
+        {
+          "name": "Female",
+          "value": 61
+        },
+        {
+          "name": "Male",
+          "value": 78
+        },
+        {
+          "name": "Unknown",
+          "value": 16
+        }
+      ]
+    },
+    {
+      "name": "Unknown",
+      "children": [
+        {
+          "name": "Unknown",
+          "value": 24683
+        },
+        {
+          "name": "Male",
+          "value": 795
+        },
+        {
+          "name": "Female",
+          "value": 1403
+        }
+      ]
+    },
+    {
+      "name": "Child (2-12)",
+      "children": [
+        {
+          "name": "Male",
+          "value": 542
+        },
+        {
+          "name": "Unknown",
+          "value": 1077
+        },
+        {
+          "name": "Female",
+          "value": 416
+        }
+      ]
+    },
+    {
+      "name": "Middle Age (40-59)",
+      "children": [
+        {
+          "name": "Male",
+          "value": 1823
+        },
+        {
+          "name": "Female",
+          "value": 1331
+        },
+        {
+          "name": "Unknown",
+          "value": 245
+        }
+      ]
+    },
+    {
+      "name": "Senior (60-79)",
+      "children": [
+        {
+          "name": "Male",
+          "value": 1309
+        },
+        {
+          "name": "Unknown",
+          "value": 156
+        },
+        {
+          "name": "Female",
+          "value": 632
+        }
+      ]
+    },
+    {
+      "name": "Young Adult (20-39)",
+      "children": [
+        {
+          "name": "Female",
+          "value": 2298
+        },
+        {
+          "name": "Male",
+          "value": 1777
+        },
+        {
+          "name": "Unknown",
+          "value": 369
+        }
+      ]
+    },
+    {
+      "name": "Adolescent (13-19)",
+      "children": [
+        {
+          "name": "Female",
+          "value": 403
+        },
+        {
+          "name": "Unknown",
+          "value": 173
+        },
+        {
+          "name": "Male",
+          "value": 295
+        }
+      ]
+    },
+    {
+      "name": "Infant (0-1)",
+      "children": [
+        {
+          "name": "Unknown",
+          "value": 495
+        },
+        {
+          "name": "Female",
+          "value": 121
+        },
+        {
+          "name": "Male",
+          "value": 146
+        }
+      ]
+    }
+  ]
+}

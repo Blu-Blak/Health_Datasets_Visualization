@@ -1,0 +1,1502 @@
+{
+  "Brain/Neurological": {
+    "count": 3362,
+    "top_conditions": [
+      {
+        "name": "Osteosarcoma",
+        "count": 26
+      },
+      {
+        "name": "Delirium tremens",
+        "count": 16
+      },
+      {
+        "name": "Tuberous sclerosis",
+        "count": 16
+      },
+      {
+        "name": "Timolol",
+        "count": 15
+      },
+      {
+        "name": "Diazepam",
+        "count": 14
+      },
+      {
+        "name": "Streptococcus pneumoniae",
+        "count": 13
+      },
+      {
+        "name": "Cryptococcus neoformans",
+        "count": 12
+      },
+      {
+        "name": "Glaucoma",
+        "count": 10
+      },
+      {
+        "name": "Propranolol",
+        "count": 10
+      },
+      {
+        "name": "11",
+        "count": 9
+      }
+    ],
+    "top_symptoms": [
+      {
+        "name": "headache",
+        "count": 702
+      },
+      {
+        "name": "seizure",
+        "count": 341
+      },
+      {
+        "name": "pain",
+        "count": 338
+      },
+      {
+        "name": "fever",
+        "count": 310
+      },
+      {
+        "name": "confusion",
+        "count": 231
+      },
+      {
+        "name": "tremor",
+        "count": 182
+      },
+      {
+        "name": "vomiting",
+        "count": 163
+      },
+      {
+        "name": "weakness",
+        "count": 145
+      },
+      {
+        "name": "nausea",
+        "count": 140
+      },
+      {
+        "name": "numbness",
+        "count": 137
+      }
+    ],
+    "age_distribution": {
+      "Young Adult (20-39)": 547,
+      "Middle Age (40-59)": 457,
+      "Senior (60-79)": 353,
+      "Child (2-12)": 221,
+      "Infant (0-1)": 73,
+      "Unknown": 1566,
+      "Adolescent (13-19)": 105,
+      "Elderly (80+)": 40
+    },
+    "gender_distribution": {
+      "Unknown": 1680,
+      "Female": 783,
+      "Male": 899
+    },
+    "color": "#FF6B6B",
+    "sample_questions": [
+      "What empirical antibiotic treatment should be administered to a 26-year-old patient with suspected pneumococcal meningitis while awaiting culture sensitivity results?",
+      "A 40-year-old female patient has recurrent headaches, and her MRI reveals an extra-axial, dural-based enhancing lesion. What is the most likely diagnosis considering these imaging and clinical feature...",
+      "What medication is likely to benefit a 65-year-old gentleman experiencing tremors, rigidity, and reduced mobility?"
+    ]
+  },
+  "Eyes": {
+    "count": 2404,
+    "top_conditions": [
+      {
+        "name": "Timolol",
+        "count": 16
+      },
+      {
+        "name": "Glaucoma",
+        "count": 10
+      },
+      {
+        "name": "Aspergillus",
+        "count": 10
+      },
+      {
+        "name": "Delirium tremens",
+        "count": 9
+      },
+      {
+        "name": "Retinal detachment",
+        "count": 9
+      },
+      {
+        "name": "11",
+        "count": 9
+      },
+      {
+        "name": "Cocaine",
+        "count": 9
+      },
+      {
+        "name": "Reiter's syndrome",
+        "count": 8
+      },
+      {
+        "name": "Atropine",
+        "count": 8
+      },
+      {
+        "name": "Optic nerve",
+        "count": 7
+      }
+    ],
+    "top_symptoms": [
+      {
+        "name": "pain",
+        "count": 312
+      },
+      {
+        "name": "headache",
+        "count": 201
+      },
+      {
+        "name": "fever",
+        "count": 112
+      },
+      {
+        "name": "vomiting",
+        "count": 93
+      },
+      {
+        "name": "fatigue",
+        "count": 89
+      },
+      {
+        "name": "weakness",
+        "count": 73
+      },
+      {
+        "name": "rash",
+        "count": 65
+      },
+      {
+        "name": "nausea",
+        "count": 62
+      },
+      {
+        "name": "blurred vision",
+        "count": 62
+      },
+      {
+        "name": "swelling",
+        "count": 58
+      }
+    ],
+    "age_distribution": {
+      "Unknown": 1261,
+      "Young Adult (20-39)": 385,
+      "Child (2-12)": 204,
+      "Senior (60-79)": 164,
+      "Middle Age (40-59)": 237,
+      "Adolescent (13-19)": 75,
+      "Infant (0-1)": 68,
+      "Elderly (80+)": 10
+    },
+    "gender_distribution": {
+      "Unknown": 1353,
+      "Female": 449,
+      "Male": 602
+    },
+    "color": "#4ECDC4",
+    "sample_questions": [
+      "Which drug has been linked to the development of suacute myelo-optic neuropathy (SMON) after prolonged use?",
+      "A 30-year-old woman presents with mild burning sensation in her eyes and an occasional dry cough, with laboratory results showing elevated calcium and normal vital signs. Given these symptoms, what sp...",
+      "A 35-year-old female presents with a solitary neck nodule. Fine Needle Aspiration Cytology (FNAC) reveals 'orphan Annie-eyed nuclei', indicative of papillary thyroid carcinoma. There is no lymph node ..."
+    ]
+  },
+  "Ears/Nose/Throat": {
+    "count": 16854,
+    "top_conditions": [
+      {
+        "name": "Schizophrenia",
+        "count": 27
+      },
+      {
+        "name": "Staphylococcus aureus",
+        "count": 26
+      },
+      {
+        "name": "Streptococcus pneumoniae",
+        "count": 20
+      },
+      {
+        "name": "Delirium tremens",
+        "count": 19
+      },
+      {
+        "name": "Meningioma",
+        "count": 17
+      },
+      {
+        "name": "Lisinopril",
+        "count": 17
+      },
+      {
+        "name": "Aspirin",
+        "count": 15
+      },
+      {
+        "name": "Osteosarcoma",
+        "count": 15
+      },
+      {
+        "name": "Cytokeratin",
+        "count": 15
+      },
+      {
+        "name": "Aspergillus",
+        "count": 15
+      }
+    ],
+    "top_symptoms": [
+      {
+        "name": "pain",
+        "count": 3015
+      },
+      {
+        "name": "fever",
+        "count": 1491
+      },
+      {
+        "name": "abdominal pain",
+        "count": 741
+      },
+      {
+        "name": "fatigue",
+        "count": 687
+      },
+      {
+        "name": "swelling",
+        "count": 626
+      },
+      {
+        "name": "cough",
+        "count": 621
+      },
+      {
+        "name": "headache",
+        "count": 599
+      },
+      {
+        "name": "weakness",
+        "count": 534
+      },
+      {
+        "name": "vomiting",
+        "count": 525
+      },
+      {
+        "name": "bleeding",
+        "count": 453
+      }
+    ],
+    "age_distribution": {
+      "Elderly (80+)": 154,
+      "Child (2-12)": 2019,
+      "Middle Age (40-59)": 3398,
+      "Senior (60-79)": 2096,
+      "Young Adult (20-39)": 4442,
+      "Adolescent (13-19)": 871,
+      "Unknown": 3653,
+      "Infant (0-1)": 221
+    },
+    "gender_distribution": {
+      "Female": 5472,
+      "Male": 6066,
+      "Unknown": 5316
+    },
+    "color": "#45B7D1",
+    "sample_questions": [
+      "An 88-year-old woman with osteoarthritis is experiencing mild epigastric discomfort and has vomited material resembling coffee grounds multiple times. Considering her use of naproxen, what is the most...",
+      "In a 3-year-old boy with severe diarrhea, vomiting, fever, and dry mucous membranes, who is unvaccinated and has been in contact with other similarly affected children at daycare, what structural feat...",
+      "A 46-year-old Caucasian male with a medical history significant for HIV with CD4 count of 77/mm\u00b3 presents with an acute onset of right hand weakness, high fever, and incomplete medication adherence. C..."
+    ]
+  },
+  "Cardiovascular": {
+    "count": 4527,
+    "top_conditions": [
+      {
+        "name": "Hypertension",
+        "count": 33
+      },
+      {
+        "name": "Cardiac tamponade",
+        "count": 18
+      },
+      {
+        "name": "Lisinopril",
+        "count": 17
+      },
+      {
+        "name": "Propranolol",
+        "count": 14
+      },
+      {
+        "name": "Aortic regurgitation",
+        "count": 12
+      },
+      {
+        "name": "Amiodarone",
+        "count": 12
+      },
+      {
+        "name": "Tetralogy of Fallot",
+        "count": 12
+      },
+      {
+        "name": "Digoxin",
+        "count": 11
+      },
+      {
+        "name": "Panic attack",
+        "count": 11
+      },
+      {
+        "name": "Echocardiography",
+        "count": 10
+      }
+    ],
+    "top_symptoms": [
+      {
+        "name": "pain",
+        "count": 774
+      },
+      {
+        "name": "chest pain",
+        "count": 411
+      },
+      {
+        "name": "fever",
+        "count": 264
+      },
+      {
+        "name": "shortness of breath",
+        "count": 245
+      },
+      {
+        "name": "palpitations",
+        "count": 225
+      },
+      {
+        "name": "headache",
+        "count": 185
+      },
+      {
+        "name": "fatigue",
+        "count": 177
+      },
+      {
+        "name": "cough",
+        "count": 132
+      },
+      {
+        "name": "abdominal pain",
+        "count": 124
+      },
+      {
+        "name": "weakness",
+        "count": 124
+      }
+    ],
+    "age_distribution": {
+      "Unknown": 1936,
+      "Senior (60-79)": 679,
+      "Young Adult (20-39)": 692,
+      "Child (2-12)": 170,
+      "Middle Age (40-59)": 823,
+      "Infant (0-1)": 86,
+      "Adolescent (13-19)": 96,
+      "Elderly (80+)": 45
+    },
+    "gender_distribution": {
+      "Unknown": 1965,
+      "Male": 1456,
+      "Female": 1106
+    },
+    "color": "#E74C3C",
+    "sample_questions": [
+      "What feature is most commonly associated with a palpable mass in the anterior neck, accompanied by symptoms of palpitations, sweating, and heat intolerance?",
+      "Based on a chest X-ray showing Hilar vascular markings, Kerley B lines, and a hazy left lung field, what is the most likely diagnosis?",
+      "A 60-year-old male with a history of COPD and heart failure developed pyelonephritis due to an organism that formed tiny deep pink colonies on MacConkey agar. Gram-staining and further characterizatio..."
+    ]
+  },
+  "Respiratory": {
+    "count": 4250,
+    "top_conditions": [
+      {
+        "name": "Streptococcus pneumoniae",
+        "count": 29
+      },
+      {
+        "name": "Tuberculosis",
+        "count": 27
+      },
+      {
+        "name": "Mycobacterium tuberculosis",
+        "count": 20
+      },
+      {
+        "name": "Pulmonary embolism",
+        "count": 18
+      },
+      {
+        "name": "Rifampicin",
+        "count": 17
+      },
+      {
+        "name": "Wegener's granulomatosis",
+        "count": 15
+      },
+      {
+        "name": "Staphylococcus aureus",
+        "count": 15
+      },
+      {
+        "name": "Cytokeratin",
+        "count": 15
+      },
+      {
+        "name": "Bronchiolitis obliterans",
+        "count": 11
+      },
+      {
+        "name": "Bronchoscopy",
+        "count": 11
+      }
+    ],
+    "top_symptoms": [
+      {
+        "name": "cough",
+        "count": 735
+      },
+      {
+        "name": "fever",
+        "count": 525
+      },
+      {
+        "name": "pain",
+        "count": 471
+      },
+      {
+        "name": "shortness of breath",
+        "count": 445
+      },
+      {
+        "name": "chest pain",
+        "count": 216
+      },
+      {
+        "name": "fatigue",
+        "count": 200
+      },
+      {
+        "name": "weight loss",
+        "count": 131
+      },
+      {
+        "name": "swelling",
+        "count": 113
+      },
+      {
+        "name": "difficulty breathing",
+        "count": 107
+      },
+      {
+        "name": "vomiting",
+        "count": 91
+      }
+    ],
+    "age_distribution": {
+      "Senior (60-79)": 532,
+      "Unknown": 1918,
+      "Young Adult (20-39)": 593,
+      "Middle Age (40-59)": 632,
+      "Child (2-12)": 306,
+      "Infant (0-1)": 133,
+      "Adolescent (13-19)": 101,
+      "Elderly (80+)": 35
+    },
+    "gender_distribution": {
+      "Male": 1303,
+      "Unknown": 2111,
+      "Female": 836
+    },
+    "color": "#3498DB",
+    "sample_questions": [
+      "A 60-year-old male developed pseudomembrane colitis following treatment for a respiratory infection that led to septicemia. During the autopsy, evidence of pseudomembrane colitis was found in the colo...",
+      "Based on a chest X-ray showing Hilar vascular markings, Kerley B lines, and a hazy left lung field, what is the most likely diagnosis?",
+      "A 60-year-old male with a history of COPD and heart failure developed pyelonephritis due to an organism that formed tiny deep pink colonies on MacConkey agar. Gram-staining and further characterizatio..."
+    ]
+  },
+  "Gastrointestinal": {
+    "count": 6855,
+    "top_conditions": [
+      {
+        "name": "Liver",
+        "count": 36
+      },
+      {
+        "name": "Staphylococcus aureus",
+        "count": 15
+      },
+      {
+        "name": "Neuroblastoma",
+        "count": 14
+      },
+      {
+        "name": "Colonoscopy",
+        "count": 13
+      },
+      {
+        "name": "Hepatocellular carcinoma",
+        "count": 13
+      },
+      {
+        "name": "Intussusception",
+        "count": 13
+      },
+      {
+        "name": "Crohn's disease",
+        "count": 11
+      },
+      {
+        "name": "Duodenum",
+        "count": 10
+      },
+      {
+        "name": "Superior mesenteric artery",
+        "count": 10
+      },
+      {
+        "name": "Intravenous metronidazole",
+        "count": 10
+      }
+    ],
+    "top_symptoms": [
+      {
+        "name": "pain",
+        "count": 1513
+      },
+      {
+        "name": "abdominal pain",
+        "count": 894
+      },
+      {
+        "name": "vomiting",
+        "count": 766
+      },
+      {
+        "name": "diarrhea",
+        "count": 633
+      },
+      {
+        "name": "fever",
+        "count": 554
+      },
+      {
+        "name": "nausea",
+        "count": 475
+      },
+      {
+        "name": "jaundice",
+        "count": 335
+      },
+      {
+        "name": "fatigue",
+        "count": 260
+      },
+      {
+        "name": "weight loss",
+        "count": 231
+      },
+      {
+        "name": "bleeding",
+        "count": 229
+      }
+    ],
+    "age_distribution": {
+      "Elderly (80+)": 24,
+      "Child (2-12)": 397,
+      "Unknown": 3380,
+      "Senior (60-79)": 508,
+      "Young Adult (20-39)": 1154,
+      "Infant (0-1)": 257,
+      "Middle Age (40-59)": 962,
+      "Adolescent (13-19)": 173
+    },
+    "gender_distribution": {
+      "Female": 1606,
+      "Male": 1731,
+      "Unknown": 3518
+    },
+    "color": "#F39C12",
+    "sample_questions": [
+      "An 88-year-old woman with osteoarthritis is experiencing mild epigastric discomfort and has vomited material resembling coffee grounds multiple times. Considering her use of naproxen, what is the most...",
+      "In a 3-year-old boy with severe diarrhea, vomiting, fever, and dry mucous membranes, who is unvaccinated and has been in contact with other similarly affected children at daycare, what structural feat...",
+      "Based on the chest radiograph and abdominal CT scan of a middle-aged male complaining of nagging abdominal pain for the past 2 weeks, what is the probable diagnosis that should be considered?"
+    ]
+  },
+  "Kidney/Urinary": {
+    "count": 3682,
+    "top_conditions": [
+      {
+        "name": "Kidney",
+        "count": 16
+      },
+      {
+        "name": "Atracurium",
+        "count": 15
+      },
+      {
+        "name": "Wegener's granulomatosis",
+        "count": 13
+      },
+      {
+        "name": "Rifampicin",
+        "count": 12
+      },
+      {
+        "name": "Enalapril",
+        "count": 10
+      },
+      {
+        "name": "Alport syndrome",
+        "count": 10
+      },
+      {
+        "name": "Congenital adrenal hyperplasia",
+        "count": 10
+      },
+      {
+        "name": "IgA nephropathy",
+        "count": 9
+      },
+      {
+        "name": "Mesangial deposits of IgA",
+        "count": 9
+      },
+      {
+        "name": "Urine output",
+        "count": 9
+      }
+    ],
+    "top_symptoms": [
+      {
+        "name": "pain",
+        "count": 508
+      },
+      {
+        "name": "fever",
+        "count": 224
+      },
+      {
+        "name": "abdominal pain",
+        "count": 142
+      },
+      {
+        "name": "fatigue",
+        "count": 141
+      },
+      {
+        "name": "headache",
+        "count": 136
+      },
+      {
+        "name": "weakness",
+        "count": 130
+      },
+      {
+        "name": "vomiting",
+        "count": 122
+      },
+      {
+        "name": "nausea",
+        "count": 96
+      },
+      {
+        "name": "swelling",
+        "count": 91
+      },
+      {
+        "name": "jaundice",
+        "count": 76
+      }
+    ],
+    "age_distribution": {
+      "Middle Age (40-59)": 539,
+      "Unknown": 1802,
+      "Senior (60-79)": 376,
+      "Child (2-12)": 226,
+      "Infant (0-1)": 82,
+      "Young Adult (20-39)": 543,
+      "Elderly (80+)": 33,
+      "Adolescent (13-19)": 81
+    },
+    "gender_distribution": {
+      "Male": 977,
+      "Unknown": 1887,
+      "Female": 818
+    },
+    "color": "#9B59B6",
+    "sample_questions": [
+      "A 46-year-old Caucasian male with a medical history significant for HIV with CD4 count of 77/mm\u00b3 presents with an acute onset of right hand weakness, high fever, and incomplete medication adherence. C...",
+      "What substance is primarily filtered in the renal tubules with minimal secretion or re-absorption?",
+      "What is the current hypothesis for the pathogenesis of nephrotic syndrome with fusion of epithelial foot processes in a child with leukemia, where light microscopy studies are normal, and electron mic..."
+    ]
+  },
+  "Reproductive": {
+    "count": 4920,
+    "top_conditions": [
+      {
+        "name": "Progesterone",
+        "count": 14
+      },
+      {
+        "name": "Metronidazole",
+        "count": 12
+      },
+      {
+        "name": "Amniocentesis",
+        "count": 10
+      },
+      {
+        "name": "Sedation and wait",
+        "count": 9
+      },
+      {
+        "name": "Placenta previa",
+        "count": 9
+      },
+      {
+        "name": "Hypertension",
+        "count": 9
+      },
+      {
+        "name": "Mycobacterium tuberculosis",
+        "count": 8
+      },
+      {
+        "name": "Myomectomy",
+        "count": 8
+      },
+      {
+        "name": "Punch biopsy",
+        "count": 8
+      },
+      {
+        "name": "Cesarean section",
+        "count": 8
+      }
+    ],
+    "top_symptoms": [
+      {
+        "name": "pain",
+        "count": 664
+      },
+      {
+        "name": "bleeding",
+        "count": 283
+      },
+      {
+        "name": "fever",
+        "count": 271
+      },
+      {
+        "name": "abdominal pain",
+        "count": 250
+      },
+      {
+        "name": "fatigue",
+        "count": 231
+      },
+      {
+        "name": "vomiting",
+        "count": 151
+      },
+      {
+        "name": "nausea",
+        "count": 117
+      },
+      {
+        "name": "weakness",
+        "count": 114
+      },
+      {
+        "name": "weight loss",
+        "count": 103
+      },
+      {
+        "name": "swelling",
+        "count": 101
+      }
+    ],
+    "age_distribution": {
+      "Young Adult (20-39)": 1205,
+      "Adolescent (13-19)": 194,
+      "Unknown": 2386,
+      "Middle Age (40-59)": 537,
+      "Child (2-12)": 189,
+      "Infant (0-1)": 114,
+      "Senior (60-79)": 277,
+      "Elderly (80+)": 18
+    },
+    "gender_distribution": {
+      "Male": 798,
+      "Female": 2250,
+      "Unknown": 1872
+    },
+    "color": "#E91E63",
+    "sample_questions": [
+      "A 33-year-old man presents with fever and fatigue after returning from a hiking trip in Alabama. He has a leukocyte count of 2,200/mm^3 with a normal differential and a platelet count of 77,000/mm^3. ...",
+      "A 14-year-old girl presents with recurrent nosebleeds and heavy menstrual bleeding. Her laboratory tests show prolonged bleeding time with normal platelet count and coagulation studies, suggesting a l...",
+      "In testicular tumors, what stage is characterized by the involvement of both testes and epididymis for which high inguinal orchiectomy is the indicated treatment?"
+    ]
+  },
+  "Musculoskeletal": {
+    "count": 6256,
+    "top_conditions": [
+      {
+        "name": "Osteosarcoma",
+        "count": 26
+      },
+      {
+        "name": "Atracurium",
+        "count": 20
+      },
+      {
+        "name": "Cricothyroid",
+        "count": 16
+      },
+      {
+        "name": "Hyperparathyroidism",
+        "count": 14
+      },
+      {
+        "name": "MRI",
+        "count": 13
+      },
+      {
+        "name": "Osteoporosis",
+        "count": 13
+      },
+      {
+        "name": "KOH mount",
+        "count": 12
+      },
+      {
+        "name": "Osteoarthritis",
+        "count": 11
+      },
+      {
+        "name": "Neuroblastoma",
+        "count": 11
+      },
+      {
+        "name": "Rheumatoid arthritis",
+        "count": 10
+      }
+    ],
+    "top_symptoms": [
+      {
+        "name": "pain",
+        "count": 1261
+      },
+      {
+        "name": "fever",
+        "count": 484
+      },
+      {
+        "name": "weakness",
+        "count": 324
+      },
+      {
+        "name": "swelling",
+        "count": 313
+      },
+      {
+        "name": "fatigue",
+        "count": 221
+      },
+      {
+        "name": "rash",
+        "count": 178
+      },
+      {
+        "name": "headache",
+        "count": 161
+      },
+      {
+        "name": "back pain",
+        "count": 159
+      },
+      {
+        "name": "abdominal pain",
+        "count": 127
+      },
+      {
+        "name": "vomiting",
+        "count": 123
+      }
+    ],
+    "age_distribution": {
+      "Elderly (80+)": 37,
+      "Unknown": 3229,
+      "Child (2-12)": 482,
+      "Infant (0-1)": 98,
+      "Young Adult (20-39)": 950,
+      "Senior (60-79)": 525,
+      "Middle Age (40-59)": 738,
+      "Adolescent (13-19)": 197
+    },
+    "gender_distribution": {
+      "Female": 1414,
+      "Unknown": 3368,
+      "Male": 1474
+    },
+    "color": "#795548",
+    "sample_questions": [
+      "An 88-year-old woman with osteoarthritis is experiencing mild epigastric discomfort and has vomited material resembling coffee grounds multiple times. Considering her use of naproxen, what is the most...",
+      "What term is used to describe the forward positioning of the mandible in children and adults with an underlying skeletal class 2 relationship?",
+      "What are the typical clinical presentations and characteristics of a foreign body in a child's nasal passage, and how are such cases commonly managed?"
+    ]
+  },
+  "Skin": {
+    "count": 4173,
+    "top_conditions": [
+      {
+        "name": "Atopic dermatitis",
+        "count": 16
+      },
+      {
+        "name": "Dermatitis herpetiformis",
+        "count": 15
+      },
+      {
+        "name": "Pemphigus vulgaris",
+        "count": 14
+      },
+      {
+        "name": "Syphilis",
+        "count": 12
+      },
+      {
+        "name": "Meningioma",
+        "count": 11
+      },
+      {
+        "name": "Minocycline",
+        "count": 11
+      },
+      {
+        "name": "Lichen planus",
+        "count": 11
+      },
+      {
+        "name": "Chancroid",
+        "count": 10
+      },
+      {
+        "name": "Intravenous metronidazole",
+        "count": 10
+      },
+      {
+        "name": "Niacin",
+        "count": 10
+      }
+    ],
+    "top_symptoms": [
+      {
+        "name": "pain",
+        "count": 712
+      },
+      {
+        "name": "rash",
+        "count": 531
+      },
+      {
+        "name": "fever",
+        "count": 414
+      },
+      {
+        "name": "diarrhea",
+        "count": 149
+      },
+      {
+        "name": "itching",
+        "count": 146
+      },
+      {
+        "name": "abdominal pain",
+        "count": 139
+      },
+      {
+        "name": "swelling",
+        "count": 128
+      },
+      {
+        "name": "fatigue",
+        "count": 122
+      },
+      {
+        "name": "headache",
+        "count": 119
+      },
+      {
+        "name": "weight loss",
+        "count": 114
+      }
+    ],
+    "age_distribution": {
+      "Elderly (80+)": 22,
+      "Young Adult (20-39)": 804,
+      "Middle Age (40-59)": 617,
+      "Unknown": 1815,
+      "Child (2-12)": 379,
+      "Infant (0-1)": 103,
+      "Senior (60-79)": 284,
+      "Adolescent (13-19)": 149
+    },
+    "gender_distribution": {
+      "Female": 1054,
+      "Unknown": 1903,
+      "Male": 1216
+    },
+    "color": "#FF9800",
+    "sample_questions": [
+      "An 88-year-old woman with osteoarthritis is experiencing mild epigastric discomfort and has vomited material resembling coffee grounds multiple times. Considering her use of naproxen, what is the most...",
+      "A 20-year-old female patient presents with 6th cranial nerve palsy. On T2-weighted MRI, a hyperintense lesion is observed in the cavernous sinus, which shows homogeneous contrast enhancement. What is ...",
+      "A 40-year-old female patient has recurrent headaches, and her MRI reveals an extra-axial, dural-based enhancing lesion. What is the most likely diagnosis considering these imaging and clinical feature..."
+    ]
+  },
+  "Blood/Immune": {
+    "count": 8260,
+    "top_conditions": [
+      {
+        "name": "Staphylococcus aureus",
+        "count": 21
+      },
+      {
+        "name": "Streptococcus pneumoniae",
+        "count": 20
+      },
+      {
+        "name": "Iron deficiency anemia",
+        "count": 15
+      },
+      {
+        "name": "Listeria monocytogenes",
+        "count": 14
+      },
+      {
+        "name": "Pseudomonas",
+        "count": 14
+      },
+      {
+        "name": "Cytomegalovirus",
+        "count": 13
+      },
+      {
+        "name": "Bronchiolitis obliterans",
+        "count": 11
+      },
+      {
+        "name": "Colonoscopy",
+        "count": 11
+      },
+      {
+        "name": "Intussusception",
+        "count": 11
+      },
+      {
+        "name": "Erythromycin",
+        "count": 11
+      }
+    ],
+    "top_symptoms": [
+      {
+        "name": "fever",
+        "count": 1842
+      },
+      {
+        "name": "pain",
+        "count": 1279
+      },
+      {
+        "name": "bleeding",
+        "count": 704
+      },
+      {
+        "name": "fatigue",
+        "count": 432
+      },
+      {
+        "name": "abdominal pain",
+        "count": 427
+      },
+      {
+        "name": "cough",
+        "count": 420
+      },
+      {
+        "name": "diarrhea",
+        "count": 340
+      },
+      {
+        "name": "headache",
+        "count": 329
+      },
+      {
+        "name": "rash",
+        "count": 283
+      },
+      {
+        "name": "vomiting",
+        "count": 275
+      }
+    ],
+    "age_distribution": {
+      "Elderly (80+)": 38,
+      "Unknown": 3751,
+      "Child (2-12)": 755,
+      "Middle Age (40-59)": 1116,
+      "Senior (60-79)": 624,
+      "Young Adult (20-39)": 1484,
+      "Adolescent (13-19)": 268,
+      "Infant (0-1)": 224
+    },
+    "gender_distribution": {
+      "Female": 2054,
+      "Unknown": 4082,
+      "Male": 2124
+    },
+    "color": "#F44336",
+    "sample_questions": [
+      "An 88-year-old woman with osteoarthritis is experiencing mild epigastric discomfort and has vomited material resembling coffee grounds multiple times. Considering her use of naproxen, what is the most...",
+      "In the context of disseminated intravascular coagulation (DIC), which blood component is expected to show an increase due to the excessive breakdown of fibrin?",
+      "In a 3-year-old boy with severe diarrhea, vomiting, fever, and dry mucous membranes, who is unvaccinated and has been in contact with other similarly affected children at daycare, what structural feat..."
+    ]
+  },
+  "Endocrine": {
+    "count": 2978,
+    "top_conditions": [
+      {
+        "name": "Diabetes mellitus",
+        "count": 21
+      },
+      {
+        "name": "Hyperparathyroidism",
+        "count": 21
+      },
+      {
+        "name": "Hypothyroidism",
+        "count": 16
+      },
+      {
+        "name": "Cricothyroid",
+        "count": 16
+      },
+      {
+        "name": "Metabolic acidosis",
+        "count": 13
+      },
+      {
+        "name": "Insulin",
+        "count": 13
+      },
+      {
+        "name": "Progesterone",
+        "count": 12
+      },
+      {
+        "name": "Pituitary adenoma",
+        "count": 12
+      },
+      {
+        "name": "Congenital adrenal hyperplasia",
+        "count": 10
+      },
+      {
+        "name": "Hyperthyroidism",
+        "count": 9
+      }
+    ],
+    "top_symptoms": [
+      {
+        "name": "pain",
+        "count": 318
+      },
+      {
+        "name": "fatigue",
+        "count": 134
+      },
+      {
+        "name": "fever",
+        "count": 118
+      },
+      {
+        "name": "headache",
+        "count": 118
+      },
+      {
+        "name": "vomiting",
+        "count": 107
+      },
+      {
+        "name": "weakness",
+        "count": 97
+      },
+      {
+        "name": "swelling",
+        "count": 90
+      },
+      {
+        "name": "weight loss",
+        "count": 85
+      },
+      {
+        "name": "nausea",
+        "count": 85
+      },
+      {
+        "name": "abdominal pain",
+        "count": 75
+      }
+    ],
+    "age_distribution": {
+      "Unknown": 1489,
+      "Young Adult (20-39)": 386,
+      "Middle Age (40-59)": 518,
+      "Child (2-12)": 120,
+      "Adolescent (13-19)": 64,
+      "Senior (60-79)": 329,
+      "Infant (0-1)": 61,
+      "Elderly (80+)": 11
+    },
+    "gender_distribution": {
+      "Unknown": 1517,
+      "Male": 681,
+      "Female": 780
+    },
+    "color": "#8BC34A",
+    "sample_questions": [
+      "What is one potential side effect that is not associated with the thioamide group of antithyroid drugs?",
+      "At what glucose level from a one-hour glucose challenge test would you recommend administering a standard glucose tolerance test?",
+      "A 20-year-old patient presents with hypokalemia, metabolic alkalosis, normal blood pressure, and no edema. Based on these clinical findings, what is the most likely diagnosis?"
+    ]
+  },
+  "Mental Health": {
+    "count": 2280,
+    "top_conditions": [
+      {
+        "name": "Schizophrenia",
+        "count": 29
+      },
+      {
+        "name": "Delirium tremens",
+        "count": 21
+      },
+      {
+        "name": "Clozapine",
+        "count": 15
+      },
+      {
+        "name": "Panic attack",
+        "count": 14
+      },
+      {
+        "name": "Tuberous sclerosis",
+        "count": 12
+      },
+      {
+        "name": "Diazepam",
+        "count": 10
+      },
+      {
+        "name": "Lithium",
+        "count": 10
+      },
+      {
+        "name": "Major depression",
+        "count": 8
+      },
+      {
+        "name": "Segmental mandibulectomy",
+        "count": 8
+      },
+      {
+        "name": "Alcohol",
+        "count": 8
+      }
+    ],
+    "top_symptoms": [
+      {
+        "name": "pain",
+        "count": 230
+      },
+      {
+        "name": "fever",
+        "count": 116
+      },
+      {
+        "name": "vomiting",
+        "count": 87
+      },
+      {
+        "name": "tremor",
+        "count": 72
+      },
+      {
+        "name": "abdominal pain",
+        "count": 69
+      },
+      {
+        "name": "seizure",
+        "count": 67
+      },
+      {
+        "name": "confusion",
+        "count": 66
+      },
+      {
+        "name": "nausea",
+        "count": 62
+      },
+      {
+        "name": "headache",
+        "count": 60
+      },
+      {
+        "name": "fatigue",
+        "count": 59
+      }
+    ],
+    "age_distribution": {
+      "Unknown": 1041,
+      "Middle Age (40-59)": 363,
+      "Young Adult (20-39)": 442,
+      "Child (2-12)": 125,
+      "Senior (60-79)": 175,
+      "Adolescent (13-19)": 71,
+      "Elderly (80+)": 17,
+      "Infant (0-1)": 46
+    },
+    "gender_distribution": {
+      "Unknown": 1078,
+      "Male": 730,
+      "Female": 472
+    },
+    "color": "#673AB7",
+    "sample_questions": [
+      "A diabetic patient presents with multiple abscesses in the leg, and microscopic examination of the pus shows gram-negative bacilli. When stained with methylene blue, the bacteria exhibit bipolar stain...",
+      "A 46-year-old male patient named Ashwath comes to your outpatient department and, while giving his medical history, suddenly appears disoriented and accuses you of stealing his thoughts. What psychiat...",
+      "A 27-year-old man with a history of major depressive episodes has been on paroxetine for 6 weeks with significant improvement in mood and energy levels. Considering his history of multiple depressive ..."
+    ]
+  },
+  "General/Other": {
+    "count": 8467,
+    "top_conditions": [
+      {
+        "name": "25%",
+        "count": 18
+      },
+      {
+        "name": "6 months",
+        "count": 15
+      },
+      {
+        "name": "Arsenic",
+        "count": 13
+      },
+      {
+        "name": "Propofol",
+        "count": 13
+      },
+      {
+        "name": "Rifampicin",
+        "count": 11
+      },
+      {
+        "name": "Glutamate",
+        "count": 10
+      },
+      {
+        "name": "Red",
+        "count": 10
+      },
+      {
+        "name": "Cocaine",
+        "count": 10
+      },
+      {
+        "name": "Staphylococcus aureus",
+        "count": 10
+      },
+      {
+        "name": "Transduction",
+        "count": 10
+      }
+    ],
+    "top_symptoms": [
+      {
+        "name": "pain",
+        "count": 97
+      },
+      {
+        "name": "swelling",
+        "count": 40
+      },
+      {
+        "name": "weakness",
+        "count": 18
+      },
+      {
+        "name": "fatigue",
+        "count": 4
+      },
+      {
+        "name": "weight loss",
+        "count": 3
+      },
+      {
+        "name": "tingling",
+        "count": 3
+      },
+      {
+        "name": "bruising",
+        "count": 1
+      },
+      {
+        "name": "loss of appetite",
+        "count": 1
+      }
+    ],
+    "age_distribution": {
+      "Unknown": 8386,
+      "Infant (0-1)": 77,
+      "Child (2-12)": 3,
+      "Elderly (80+)": 1
+    },
+    "gender_distribution": {
+      "Unknown": 8149,
+      "Male": 144,
+      "Female": 174
+    },
+    "color": "#95A5A6",
+    "sample_questions": [
+      "Given a sample of 100 children with a median weight of 12 kgs and a standard deviation of 3 kgs, calculate the percentage coefficient of variance.",
+      "Given a country with a crude birth rate of 25 per 1000 and a crude death rate of 10 per 1000, what is the demographic growth rate of the country expressed as a percentage?",
+      "What is considered the most effective spacing method provided under the National Family Planning program, taking into account typical usage patterns?"
+    ]
+  }
+}

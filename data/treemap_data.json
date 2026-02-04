@@ -1,0 +1,537 @@
+{
+  "name": "Medical Questions",
+  "children": [
+    {
+      "name": "Brain/Neurological",
+      "color": "#FF6B6B",
+      "children": [
+        {
+          "name": "Osteosarcoma",
+          "value": 26
+        },
+        {
+          "name": "Delirium tremens",
+          "value": 16
+        },
+        {
+          "name": "Tuberous sclerosis",
+          "value": 16
+        },
+        {
+          "name": "Timolol",
+          "value": 15
+        },
+        {
+          "name": "Diazepam",
+          "value": 14
+        },
+        {
+          "name": "Streptococcus pneumoniae",
+          "value": 13
+        },
+        {
+          "name": "Cryptococcus neoformans",
+          "value": 12
+        },
+        {
+          "name": "Glaucoma",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "name": "Eyes",
+      "color": "#4ECDC4",
+      "children": [
+        {
+          "name": "Timolol",
+          "value": 16
+        },
+        {
+          "name": "Glaucoma",
+          "value": 10
+        },
+        {
+          "name": "Aspergillus",
+          "value": 10
+        },
+        {
+          "name": "Delirium tremens",
+          "value": 9
+        },
+        {
+          "name": "Retinal detachment",
+          "value": 9
+        },
+        {
+          "name": "11",
+          "value": 9
+        },
+        {
+          "name": "Cocaine",
+          "value": 9
+        },
+        {
+          "name": "Reiter's syndrome",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "name": "Ears/Nose/Throat",
+      "color": "#45B7D1",
+      "children": [
+        {
+          "name": "Schizophrenia",
+          "value": 27
+        },
+        {
+          "name": "Staphylococcus aureus",
+          "value": 26
+        },
+        {
+          "name": "Streptococcus pneumoniae",
+          "value": 20
+        },
+        {
+          "name": "Delirium tremens",
+          "value": 19
+        },
+        {
+          "name": "Meningioma",
+          "value": 17
+        },
+        {
+          "name": "Lisinopril",
+          "value": 17
+        },
+        {
+          "name": "Aspirin",
+          "value": 15
+        },
+        {
+          "name": "Osteosarcoma",
+          "value": 15
+        }
+      ]
+    },
+    {
+      "name": "Cardiovascular",
+      "color": "#E74C3C",
+      "children": [
+        {
+          "name": "Hypertension",
+          "value": 33
+        },
+        {
+          "name": "Cardiac tamponade",
+          "value": 18
+        },
+        {
+          "name": "Lisinopril",
+          "value": 17
+        },
+        {
+          "name": "Propranolol",
+          "value": 14
+        },
+        {
+          "name": "Aortic regurgitation",
+          "value": 12
+        },
+        {
+          "name": "Amiodarone",
+          "value": 12
+        },
+        {
+          "name": "Tetralogy of Fallot",
+          "value": 12
+        },
+        {
+          "name": "Digoxin",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "name": "Respiratory",
+      "color": "#3498DB",
+      "children": [
+        {
+          "name": "Streptococcus pneumoniae",
+          "value": 29
+        },
+        {
+          "name": "Tuberculosis",
+          "value": 27
+        },
+        {
+          "name": "Mycobacterium tuberculosis",
+          "value": 20
+        },
+        {
+          "name": "Pulmonary embolism",
+          "value": 18
+        },
+        {
+          "name": "Rifampicin",
+          "value": 17
+        },
+        {
+          "name": "Wegener's granulomatosis",
+          "value": 15
+        },
+        {
+          "name": "Staphylococcus aureus",
+          "value": 15
+        },
+        {
+          "name": "Cytokeratin",
+          "value": 15
+        }
+      ]
+    },
+    {
+      "name": "Gastrointestinal",
+      "color": "#F39C12",
+      "children": [
+        {
+          "name": "Liver",
+          "value": 36
+        },
+        {
+          "name": "Staphylococcus aureus",
+          "value": 15
+        },
+        {
+          "name": "Neuroblastoma",
+          "value": 14
+        },
+        {
+          "name": "Colonoscopy",
+          "value": 13
+        },
+        {
+          "name": "Hepatocellular carcinoma",
+          "value": 13
+        },
+        {
+          "name": "Intussusception",
+          "value": 13
+        },
+        {
+          "name": "Crohn's disease",
+          "value": 11
+        },
+        {
+          "name": "Duodenum",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "name": "Kidney/Urinary",
+      "color": "#9B59B6",
+      "children": [
+        {
+          "name": "Kidney",
+          "value": 16
+        },
+        {
+          "name": "Atracurium",
+          "value": 15
+        },
+        {
+          "name": "Wegener's granulomatosis",
+          "value": 13
+        },
+        {
+          "name": "Rifampicin",
+          "value": 12
+        },
+        {
+          "name": "Enalapril",
+          "value": 10
+        },
+        {
+          "name": "Alport syndrome",
+          "value": 10
+        },
+        {
+          "name": "Congenital adrenal hyperplasia",
+          "value": 10
+        },
+        {
+          "name": "IgA nephropathy",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "name": "Reproductive",
+      "color": "#E91E63",
+      "children": [
+        {
+          "name": "Progesterone",
+          "value": 14
+        },
+        {
+          "name": "Metronidazole",
+          "value": 12
+        },
+        {
+          "name": "Amniocentesis",
+          "value": 10
+        },
+        {
+          "name": "Sedation and wait",
+          "value": 9
+        },
+        {
+          "name": "Placenta previa",
+          "value": 9
+        },
+        {
+          "name": "Hypertension",
+          "value": 9
+        },
+        {
+          "name": "Mycobacterium tuberculosis",
+          "value": 8
+        },
+        {
+          "name": "Myomectomy",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "name": "Musculoskeletal",
+      "color": "#795548",
+      "children": [
+        {
+          "name": "Osteosarcoma",
+          "value": 26
+        },
+        {
+          "name": "Atracurium",
+          "value": 20
+        },
+        {
+          "name": "Cricothyroid",
+          "value": 16
+        },
+        {
+          "name": "Hyperparathyroidism",
+          "value": 14
+        },
+        {
+          "name": "MRI",
+          "value": 13
+        },
+        {
+          "name": "Osteoporosis",
+          "value": 13
+        },
+        {
+          "name": "KOH mount",
+          "value": 12
+        },
+        {
+          "name": "Osteoarthritis",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "name": "Skin",
+      "color": "#FF9800",
+      "children": [
+        {
+          "name": "Atopic dermatitis",
+          "value": 16
+        },
+        {
+          "name": "Dermatitis herpetiformis",
+          "value": 15
+        },
+        {
+          "name": "Pemphigus vulgaris",
+          "value": 14
+        },
+        {
+          "name": "Syphilis",
+          "value": 12
+        },
+        {
+          "name": "Meningioma",
+          "value": 11
+        },
+        {
+          "name": "Minocycline",
+          "value": 11
+        },
+        {
+          "name": "Lichen planus",
+          "value": 11
+        },
+        {
+          "name": "Chancroid",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "name": "Blood/Immune",
+      "color": "#F44336",
+      "children": [
+        {
+          "name": "Staphylococcus aureus",
+          "value": 21
+        },
+        {
+          "name": "Streptococcus pneumoniae",
+          "value": 20
+        },
+        {
+          "name": "Iron deficiency anemia",
+          "value": 15
+        },
+        {
+          "name": "Listeria monocytogenes",
+          "value": 14
+        },
+        {
+          "name": "Pseudomonas",
+          "value": 14
+        },
+        {
+          "name": "Cytomegalovirus",
+          "value": 13
+        },
+        {
+          "name": "Bronchiolitis obliterans",
+          "value": 11
+        },
+        {
+          "name": "Colonoscopy",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "name": "Endocrine",
+      "color": "#8BC34A",
+      "children": [
+        {
+          "name": "Diabetes mellitus",
+          "value": 21
+        },
+        {
+          "name": "Hyperparathyroidism",
+          "value": 21
+        },
+        {
+          "name": "Hypothyroidism",
+          "value": 16
+        },
+        {
+          "name": "Cricothyroid",
+          "value": 16
+        },
+        {
+          "name": "Metabolic acidosis",
+          "value": 13
+        },
+        {
+          "name": "Insulin",
+          "value": 13
+        },
+        {
+          "name": "Progesterone",
+          "value": 12
+        },
+        {
+          "name": "Pituitary adenoma",
+          "value": 12
+        }
+      ]
+    },
+    {
+      "name": "Mental Health",
+      "color": "#673AB7",
+      "children": [
+        {
+          "name": "Schizophrenia",
+          "value": 29
+        },
+        {
+          "name": "Delirium tremens",
+          "value": 21
+        },
+        {
+          "name": "Clozapine",
+          "value": 15
+        },
+        {
+          "name": "Panic attack",
+          "value": 14
+        },
+        {
+          "name": "Tuberous sclerosis",
+          "value": 12
+        },
+        {
+          "name": "Diazepam",
+          "value": 10
+        },
+        {
+          "name": "Lithium",
+          "value": 10
+        },
+        {
+          "name": "Major depression",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "name": "General/Other",
+      "color": "#95A5A6",
+      "children": [
+        {
+          "name": "25%",
+          "value": 18
+        },
+        {
+          "name": "6 months",
+          "value": 15
+        },
+        {
+          "name": "Arsenic",
+          "value": 13
+        },
+        {
+          "name": "Propofol",
+          "value": 13
+        },
+        {
+          "name": "Rifampicin",
+          "value": 11
+        },
+        {
+          "name": "Glutamate",
+          "value": 10
+        },
+        {
+          "name": "Red",
+          "value": 10
+        },
+        {
+          "name": "Cocaine",
+          "value": 10
+        }
+      ]
+    }
+  ]
+}

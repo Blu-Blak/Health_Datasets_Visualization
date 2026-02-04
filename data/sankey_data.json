@@ -1,0 +1,894 @@
+{
+  "nodes": [
+    {
+      "name": "palpitations",
+      "type": "symptom"
+    },
+    {
+      "name": "chest pain",
+      "type": "symptom"
+    },
+    {
+      "name": "itching",
+      "type": "symptom"
+    },
+    {
+      "name": "headache",
+      "type": "symptom"
+    },
+    {
+      "name": "cough",
+      "type": "symptom"
+    },
+    {
+      "name": "pain",
+      "type": "symptom"
+    },
+    {
+      "name": "bleeding",
+      "type": "symptom"
+    },
+    {
+      "name": "fatigue",
+      "type": "symptom"
+    },
+    {
+      "name": "fever",
+      "type": "symptom"
+    },
+    {
+      "name": "seizure",
+      "type": "symptom"
+    },
+    {
+      "name": "vomiting",
+      "type": "symptom"
+    },
+    {
+      "name": "swelling",
+      "type": "symptom"
+    },
+    {
+      "name": "diarrhea",
+      "type": "symptom"
+    },
+    {
+      "name": "weakness",
+      "type": "symptom"
+    },
+    {
+      "name": "rash",
+      "type": "symptom"
+    },
+    {
+      "name": "jaundice",
+      "type": "symptom"
+    },
+    {
+      "name": "abdominal pain",
+      "type": "symptom"
+    },
+    {
+      "name": "tremor",
+      "type": "symptom"
+    },
+    {
+      "name": "Isospora belli",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Temporal arteritis",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Colonoscopy",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Streptococcus pneumoniae",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Cystic hygroma",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Panic attack",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Isospora",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Scleroderma",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Mycoplasma pneumoniae",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Nasopharyngeal swab",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Wayson staining",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Tretinoin",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Pulmonary embolism",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Syphilis",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Ceftriaxone",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Ruptured ectopic pregnancy",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Echocardiography",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Sedation and wait",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Very severe disease",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Ectopic pregnancy",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Factitious disorder",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Punch biopsy",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Legionella",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Saphenous nerve",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Tuberous sclerosis",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Trigeminal neuralgia",
+      "type": "diagnosis"
+    },
+    {
+      "name": "MRI",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Wegener's granulomatosis",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Coombs test",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Colchicine",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Factor XIII deficiency",
+      "type": "diagnosis"
+    },
+    {
+      "name": "CT scan",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Niacin",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Diazepam",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Enterococcus faecalis",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Herpes zoster",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Myomectomy",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Atherosclerosis",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Fresh frozen plasma",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Staphylococcus epidermidis",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Hypokalemia",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Tuberculosis",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Acute pancreatitis",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Cyclospora",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Penicillin G",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Reiter's syndrome",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Surgery",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Malignant otitis externa",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Roseola infantum",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Cavernous sinus thrombosis",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Chlamydia trachomatis",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Intussusception",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Gabapentin",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Crohn's disease",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Craniopharyngioma",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Dantrolene",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Meningioma",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Angioneurotic edema",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Aldolase B",
+      "type": "diagnosis"
+    },
+    {
+      "name": "KOH mount",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Delirium tremens",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Erythromycin",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Cytokeratin",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Point mutation",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Listeria monocytogenes",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Parapharyngeal abscess",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Acute leukemia",
+      "type": "diagnosis"
+    },
+    {
+      "name": "11",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Pseudomonas aeruginosa",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Chancroid",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Staphylococcus aureus",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Phrenic nerve",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Bacillus cereus",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Bronchiolitis obliterans",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Trichophyton rubrum",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Henoch-Schonlein purpura",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Mallory-Weiss syndrome",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Mesangial deposits of IgA",
+      "type": "diagnosis"
+    },
+    {
+      "name": "Severe dehydration",
+      "type": "diagnosis"
+    }
+  ],
+  "links": [
+    {
+      "source": 8,
+      "target": 21,
+      "value": 18
+    },
+    {
+      "source": 17,
+      "target": 78,
+      "value": 16
+    },
+    {
+      "source": 9,
+      "target": 42,
+      "value": 16
+    },
+    {
+      "source": 8,
+      "target": 88,
+      "value": 13
+    },
+    {
+      "source": 8,
+      "target": 82,
+      "value": 11
+    },
+    {
+      "source": 8,
+      "target": 91,
+      "value": 11
+    },
+    {
+      "source": 4,
+      "target": 91,
+      "value": 11
+    },
+    {
+      "source": 10,
+      "target": 88,
+      "value": 11
+    },
+    {
+      "source": 5,
+      "target": 85,
+      "value": 10
+    },
+    {
+      "source": 5,
+      "target": 31,
+      "value": 10
+    },
+    {
+      "source": 5,
+      "target": 30,
+      "value": 10
+    },
+    {
+      "source": 11,
+      "target": 83,
+      "value": 9
+    },
+    {
+      "source": 11,
+      "target": 95,
+      "value": 9
+    },
+    {
+      "source": 14,
+      "target": 95,
+      "value": 9
+    },
+    {
+      "source": 8,
+      "target": 73,
+      "value": 9
+    },
+    {
+      "source": 4,
+      "target": 45,
+      "value": 9
+    },
+    {
+      "source": 13,
+      "target": 74,
+      "value": 9
+    },
+    {
+      "source": 5,
+      "target": 69,
+      "value": 9
+    },
+    {
+      "source": 4,
+      "target": 27,
+      "value": 9
+    },
+    {
+      "source": 5,
+      "target": 55,
+      "value": 9
+    },
+    {
+      "source": 14,
+      "target": 93,
+      "value": 9
+    },
+    {
+      "source": 8,
+      "target": 67,
+      "value": 9
+    },
+    {
+      "source": 5,
+      "target": 87,
+      "value": 9
+    },
+    {
+      "source": 8,
+      "target": 40,
+      "value": 9
+    },
+    {
+      "source": 5,
+      "target": 89,
+      "value": 8
+    },
+    {
+      "source": 11,
+      "target": 77,
+      "value": 8
+    },
+    {
+      "source": 6,
+      "target": 39,
+      "value": 8
+    },
+    {
+      "source": 16,
+      "target": 69,
+      "value": 8
+    },
+    {
+      "source": 0,
+      "target": 23,
+      "value": 8
+    },
+    {
+      "source": 15,
+      "target": 46,
+      "value": 8
+    },
+    {
+      "source": 5,
+      "target": 60,
+      "value": 8
+    },
+    {
+      "source": 8,
+      "target": 57,
+      "value": 8
+    },
+    {
+      "source": 5,
+      "target": 29,
+      "value": 7
+    },
+    {
+      "source": 11,
+      "target": 75,
+      "value": 7
+    },
+    {
+      "source": 10,
+      "target": 96,
+      "value": 7
+    },
+    {
+      "source": 1,
+      "target": 89,
+      "value": 7
+    },
+    {
+      "source": 10,
+      "target": 76,
+      "value": 7
+    },
+    {
+      "source": 5,
+      "target": 44,
+      "value": 7
+    },
+    {
+      "source": 4,
+      "target": 80,
+      "value": 7
+    },
+    {
+      "source": 11,
+      "target": 22,
+      "value": 7
+    },
+    {
+      "source": 8,
+      "target": 59,
+      "value": 7
+    },
+    {
+      "source": 8,
+      "target": 84,
+      "value": 7
+    },
+    {
+      "source": 4,
+      "target": 21,
+      "value": 7
+    },
+    {
+      "source": 3,
+      "target": 72,
+      "value": 7
+    },
+    {
+      "source": 8,
+      "target": 83,
+      "value": 6
+    },
+    {
+      "source": 1,
+      "target": 29,
+      "value": 6
+    },
+    {
+      "source": 8,
+      "target": 36,
+      "value": 6
+    },
+    {
+      "source": 4,
+      "target": 36,
+      "value": 6
+    },
+    {
+      "source": 5,
+      "target": 41,
+      "value": 6
+    },
+    {
+      "source": 5,
+      "target": 63,
+      "value": 6
+    },
+    {
+      "source": 5,
+      "target": 71,
+      "value": 6
+    },
+    {
+      "source": 8,
+      "target": 71,
+      "value": 6
+    },
+    {
+      "source": 12,
+      "target": 71,
+      "value": 6
+    },
+    {
+      "source": 10,
+      "target": 94,
+      "value": 6
+    },
+    {
+      "source": 4,
+      "target": 59,
+      "value": 6
+    },
+    {
+      "source": 5,
+      "target": 68,
+      "value": 6
+    },
+    {
+      "source": 12,
+      "target": 18,
+      "value": 6
+    },
+    {
+      "source": 6,
+      "target": 48,
+      "value": 6
+    },
+    {
+      "source": 9,
+      "target": 51,
+      "value": 6
+    },
+    {
+      "source": 5,
+      "target": 64,
+      "value": 6
+    },
+    {
+      "source": 3,
+      "target": 19,
+      "value": 6
+    },
+    {
+      "source": 5,
+      "target": 54,
+      "value": 6
+    },
+    {
+      "source": 10,
+      "target": 90,
+      "value": 6
+    },
+    {
+      "source": 8,
+      "target": 62,
+      "value": 6
+    },
+    {
+      "source": 5,
+      "target": 65,
+      "value": 6
+    },
+    {
+      "source": 8,
+      "target": 79,
+      "value": 6
+    },
+    {
+      "source": 5,
+      "target": 33,
+      "value": 6
+    },
+    {
+      "source": 16,
+      "target": 33,
+      "value": 6
+    },
+    {
+      "source": 5,
+      "target": 34,
+      "value": 6
+    },
+    {
+      "source": 5,
+      "target": 37,
+      "value": 6
+    },
+    {
+      "source": 5,
+      "target": 38,
+      "value": 6
+    },
+    {
+      "source": 12,
+      "target": 50,
+      "value": 6
+    },
+    {
+      "source": 8,
+      "target": 24,
+      "value": 6
+    },
+    {
+      "source": 12,
+      "target": 24,
+      "value": 6
+    },
+    {
+      "source": 4,
+      "target": 26,
+      "value": 6
+    },
+    {
+      "source": 5,
+      "target": 93,
+      "value": 6
+    },
+    {
+      "source": 5,
+      "target": 35,
+      "value": 6
+    },
+    {
+      "source": 8,
+      "target": 52,
+      "value": 6
+    },
+    {
+      "source": 12,
+      "target": 61,
+      "value": 6
+    },
+    {
+      "source": 2,
+      "target": 92,
+      "value": 6
+    },
+    {
+      "source": 5,
+      "target": 70,
+      "value": 6
+    },
+    {
+      "source": 6,
+      "target": 56,
+      "value": 6
+    },
+    {
+      "source": 5,
+      "target": 86,
+      "value": 6
+    },
+    {
+      "source": 8,
+      "target": 28,
+      "value": 6
+    },
+    {
+      "source": 5,
+      "target": 25,
+      "value": 6
+    },
+    {
+      "source": 8,
+      "target": 66,
+      "value": 6
+    },
+    {
+      "source": 14,
+      "target": 66,
+      "value": 6
+    },
+    {
+      "source": 13,
+      "target": 58,
+      "value": 6
+    },
+    {
+      "source": 3,
+      "target": 74,
+      "value": 5
+    },
+    {
+      "source": 5,
+      "target": 53,
+      "value": 5
+    },
+    {
+      "source": 7,
+      "target": 20,
+      "value": 5
+    },
+    {
+      "source": 17,
+      "target": 51,
+      "value": 5
+    },
+    {
+      "source": 5,
+      "target": 49,
+      "value": 5
+    },
+    {
+      "source": 5,
+      "target": 43,
+      "value": 5
+    },
+    {
+      "source": 5,
+      "target": 47,
+      "value": 5
+    },
+    {
+      "source": 5,
+      "target": 81,
+      "value": 5
+    },
+    {
+      "source": 16,
+      "target": 81,
+      "value": 5
+    },
+    {
+      "source": 8,
+      "target": 32,
+      "value": 5
+    },
+    {
+      "source": 16,
+      "target": 54,
+      "value": 5
+    },
+    {
+      "source": 5,
+      "target": 77,
+      "value": 5
+    }
+  ]
+}
