@@ -120,7 +120,8 @@ function setupChartToggle() {
  * Create Sunburst Chart for Dataset 1 (medical-o1-verifiable-problem)
  */
 function createSunburstChart() {
-    const container = d3.select('#sunburst-chart');
+    const container = d3.select('#sunburst-chart')
+        .style('position', 'relative');
     const width = 500;
     const height = 500;
     const radius = Math.min(width, height) / 2;
@@ -148,21 +149,43 @@ function createSunburstChart() {
         .size([2 * Math.PI, radius]);
     
     // Filter out "Unknown" age groups and genders
+    const ageGroups = sunburstData.children
+        .filter(ageGroup => ageGroup.name !== 'Unknown')
+        .map(ageGroup => ({
+            name: ageGroup.name,
+            children: ageGroup.children.filter(gender => gender.name !== 'Unknown')
+        }))
+        .filter(ageGroup => ageGroup.children.length > 0);
+    
+    // Sort age groups by total value
+    ageGroups.sort((a, b) => {
+        const aTotal = a.children.reduce((sum, c) => sum + (c.value || 0), 0);
+        const bTotal = b.children.reduce((sum, c) => sum + (c.value || 0), 0);
+        return bTotal - aTotal;
+    });
+    
+    // Reorder children to create alternating Male/Female pattern across the entire ring
+    let lastGender = 'Female'; // So first group starts with Male
+    ageGroups.forEach(ageGroup => {
+        const startWith = lastGender === 'Male' ? 'Female' : 'Male';
+        ageGroup.children.sort((a, b) => {
+            const order = startWith === 'Male' ? ['Male', 'Female'] : ['Female', 'Male'];
+            return order.indexOf(a.name) - order.indexOf(b.name);
+        });
+        if (ageGroup.children.length > 0) {
+            lastGender = ageGroup.children[ageGroup.children.length - 1].name;
+        }
+    });
+    
     const filteredData = {
         name: sunburstData.name,
-        children: sunburstData.children
-            .filter(ageGroup => ageGroup.name !== 'Unknown')
-            .map(ageGroup => ({
-                name: ageGroup.name,
-                children: ageGroup.children.filter(gender => gender.name !== 'Unknown')
-            }))
-            .filter(ageGroup => ageGroup.children.length > 0)
+        children: ageGroups
     };
     
     const root = d3.hierarchy(filteredData)
-        .sum(d => d.value || 0)
-        .sort((a, b) => b.value - a.value);
+        .sum(d => d.value || 0);
     
+    // Don't sort - preserve our alternating order
     partition(root);
     
     // Create arc generator
@@ -238,16 +261,69 @@ function createSunburstChart() {
         .style('fill', '#666')
         .text('Total Patients');
     
-    // Add legend
-    const legend = container.append('div')
-        .attr('class', 'sunburst-legend')
+    // Add Outer Ring Legend (Gender) - positioned at top right of the chart
+    const outerLegend = container.insert('div', ':first-child')
+        .style('position', 'absolute')
+        .style('top', '10px')
+        .style('right', '10px')
+        .style('background', 'rgba(255,255,255,0.95)')
+        .style('border-radius', '8px')
+        .style('padding', '12px 16px')
+        .style('box-shadow', '0 2px 8px rgba(0,0,0,0.15)')
+        .style('border', '1px solid #e0e0e0');
+    
+    outerLegend.append('div')
+        .style('font-weight', '600')
+        .style('font-size', '11px')
+        .style('margin-bottom', '8px')
+        .style('color', '#333')
+        .style('text-align', 'center')
+        .text('Outer Ring');
+    
+    const genderLabels = [
+        { name: 'Male', color: '#4A90E2' },
+        { name: 'Female', color: '#E85D75' }
+    ];
+    
+    genderLabels.forEach(g => {
+        const item = outerLegend.append('div')
+            .style('display', 'flex')
+            .style('align-items', 'center')
+            .style('margin', '4px 0')
+            .style('font-size', '11px');
+        
+        item.append('span')
+            .style('display', 'inline-block')
+            .style('width', '14px')
+            .style('height', '14px')
+            .style('background-color', g.color)
+            .style('margin-right', '8px')
+            .style('border-radius', '3px');
+        
+        item.append('span')
+            .style('color', '#444')
+            .text(g.name);
+    });
+    
+    // Add Inner Ring Legend (Age Groups) - below the chart
+    const innerLegend = container.append('div')
         .style('margin-top', '20px')
         .style('text-align', 'center');
     
-    const ageGroups = ['Elderly (80+)', 'Senior (60-79)', 'Middle Age (40-59)', 'Young Adult (20-39)', 'Adolescent (13-19)', 'Child (2-12)', 'Infant (0-1)'];
+    innerLegend.append('div')
+        .style('font-weight', '600')
+        .style('font-size', '12px')
+        .style('margin-bottom', '10px')
+        .style('color', '#333')
+        .text('Inner Ring (Age Groups)');
+    
+    const legend = innerLegend.append('div')
+        .attr('class', 'sunburst-legend');
+    
+    const ageGroupLabels = ['Elderly (80+)', 'Senior (60-79)', 'Middle Age (40-59)', 'Young Adult (20-39)', 'Adolescent (13-19)', 'Child (2-12)', 'Infant (0-1)'];
     
     const legendItems = legend.selectAll('.legend-item')
-        .data(ageGroups)
+        .data(ageGroupLabels)
         .enter().append('div')
         .style('display', 'inline-block')
         .style('margin', '5px 10px')
