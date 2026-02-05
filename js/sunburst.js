@@ -136,8 +136,8 @@ function createSunburstChart() {
     
     // Create color scale
     const color = d3.scaleOrdinal()
-        .domain(['Elderly (80+)', 'Senior (60-79)', 'Adult (35-59)', 'Young Adult (18-34)', 'Teen (13-17)', 'Child (2-12)', 'Infant (<2)', 'Unknown'])
-        .range(['#8B4513', '#CD853F', '#4A90E2', '#50C878', '#FFD700', '#FF69B4', '#FFB6C1', '#999999']);
+        .domain(['Elderly (80+)', 'Senior (60-79)', 'Middle Age (40-59)', 'Young Adult (20-39)', 'Adolescent (13-19)', 'Child (2-12)', 'Infant (0-1)', 'Unknown'])
+        .range(['#8B4513', '#CD853F', '#9370DB', '#50C878', '#FFD700', '#FF69B4', '#FFB6C1', '#999999']);
     
     const genderColor = d3.scaleOrdinal()
         .domain(['Male', 'Female', 'Unknown'])
@@ -244,7 +244,7 @@ function createSunburstChart() {
         .style('margin-top', '20px')
         .style('text-align', 'center');
     
-    const ageGroups = ['Elderly (80+)', 'Senior (60-79)', 'Adult (35-59)', 'Young Adult (18-34)', 'Teen (13-17)', 'Child (2-12)', 'Infant (<2)'];
+    const ageGroups = ['Elderly (80+)', 'Senior (60-79)', 'Middle Age (40-59)', 'Young Adult (20-39)', 'Adolescent (13-19)', 'Child (2-12)', 'Infant (0-1)'];
     
     const legendItems = legend.selectAll('.legend-item')
         .data(ageGroups)
