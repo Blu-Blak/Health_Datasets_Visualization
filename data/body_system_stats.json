@@ -37,11 +37,8 @@
       {
         "name": "Propranolol",
         "count": 10
-      },
-      {
-        "name": "11",
-        "count": 9
       }
+      
     ],
     "top_symptoms": [
       {
@@ -128,14 +125,6 @@
       },
       {
         "name": "Retinal detachment",
-        "count": 9
-      },
-      {
-        "name": "11",
-        "count": 9
-      },
-      {
-        "name": "Cocaine",
         "count": 9
       },
       {
@@ -543,7 +532,7 @@
     "count": 6855,
     "top_conditions": [
       {
-        "name": "Liver",
+        "name": "Liver Related",
         "count": 36
       },
       {
@@ -651,7 +640,7 @@
     "count": 3682,
     "top_conditions": [
       {
-        "name": "Kidney",
+        "name": "Kidney Related",
         "count": 16
       },
       {
@@ -763,16 +752,16 @@
         "count": 14
       },
       {
+        "name": "Syphilis",
+        "count": 12
+      },
+      {
         "name": "Metronidazole",
         "count": 12
       },
       {
         "name": "Amniocentesis",
         "count": 10
-      },
-      {
-        "name": "Sedation and wait",
-        "count": 9
       },
       {
         "name": "Placenta previa",
@@ -883,7 +872,7 @@
         "count": 14
       },
       {
-        "name": "MRI",
+        "name": "MRI scan related",
         "count": 13
       },
       {
@@ -1319,11 +1308,7 @@
         "count": 12
       },
       {
-        "name": "Diazepam",
-        "count": 10
-      },
-      {
-        "name": "Lithium",
+        "name": "Chronic Anxiety",
         "count": 10
       },
       {
@@ -1335,7 +1320,7 @@
         "count": 8
       },
       {
-        "name": "Alcohol",
+        "name": "Alcohol related issues",
         "count": 8
       }
     ],
